@@ -1,0 +1,4 @@
+applications:
+ - name: michal-testing
+   random-route: true
+memory: 128M
